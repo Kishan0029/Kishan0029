@@ -30,6 +30,25 @@
 
 <br/>
 
+### 📂 Featured Projects
+
+#### 🌐 Client Websites & Agencies
+- **[Nextverse](https://github.com/Kishan0029/nextverse-website)** - Official website for Nextverse agency.
+- **[MH Design and Build](https://github.com/Kishan0029/mh-design-build)** - Professional website for MH Design and Build.
+- **[Skin & Hair Solutions](https://github.com/Kishan0029/skin-hair-solutions)** - Clinic website for Skin and Hair Solutions.
+- **[Dotcreators Agency](https://github.com/Kishan0029/dotcreators-agency)** - Event website made in collaboration with Dotlabs Agency.
+
+#### 💻 Web Applications
+- **[Hotel Service Manager](https://github.com/Kishan0029/hotel-service-manager)** - Management software built for Regenta Resort Belgaum, a 5-star resort.
+- **[Belgaonkar Fitness App](https://github.com/Kishan0029/belgaonkar-fitness-app)** - Complete mobile-first gym management application.
+- **[Asteria Medbot](https://github.com/Kishan0029/asteria-medbot)** - Automation admin frontend connected with n8n to automate WhatsApp client bookings.
+
+#### 🛒 E-commerce & Business
+- **[Nova Finds](https://github.com/Kishan0029/nova-finds)** - Modern e-commerce platform.
+- **[Fitness Forge](https://github.com/Kishan0029/fitness-forge)** - Comprehensive gym and fitness website.
+
+<br/>
+
 ### 🤝 Connect with me
 <div align="center">
   <a href="https://x.com/Kishan__29" target="_blank" rel="noopener noreferrer">
