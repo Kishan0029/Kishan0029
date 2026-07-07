@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Kishan! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Lifelong+Learner;Building+modern+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;AI+Automation+Engineer;Founder+Nextverse;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <i>🚀 Currently mastering Web Development in Cohort 3.0 and building cool things!</i>
+  <i>🚀 Founder of Nextverse | AI Automation Engineer | Mastering Web Development in Cohort 3.0</i>
 </div>
 
 <br/>
