@@ -20,19 +20,10 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishan0029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kishan's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0029&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192px"/>
-</div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishan0029&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://metrics.lecoq.io/Kishan0029" alt="GitHub Metrics" width="600"/>
 </div>
 
 <br/>
