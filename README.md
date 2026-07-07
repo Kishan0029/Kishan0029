@@ -23,7 +23,7 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <a href="https://github.com/Kishan0029">
+  <a href="#">
     <img src="https://metrics.lecoq.io/Kishan0029" alt="GitHub Metrics" width="600"/>
   </a>
 </div>
