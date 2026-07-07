@@ -32,9 +32,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -52,10 +52,10 @@
 - **[Hotel Service Manager](https://github.com/Kishan0029/hotel-service-manager)** - Management software built for Regenta Resort Belgaum, a 5-star resort.
 - **[Belgaonkar Fitness App](https://github.com/Kishan0029/belgaonkar-fitness-app)** - Complete mobile-first gym management application.
 - **[Asteria Medbot](https://github.com/Kishan0029/asteria-medbot)** - Automation admin frontend connected with n8n to automate WhatsApp client bookings.
+- **[Fitness Forge](https://github.com/Kishan0029/fitness-forge)** - Comprehensive gym and fitness website.
 
 #### 🛒 E-commerce & Business
 - **[Nova Finds](https://github.com/Kishan0029/nova-finds)** - Modern e-commerce platform.
-- **[Fitness Forge](https://github.com/Kishan0029/fitness-forge)** - Comprehensive gym and fitness website.
 
 <br/>
 
