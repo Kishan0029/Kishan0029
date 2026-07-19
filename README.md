@@ -23,19 +23,25 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kishan0029&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="#">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kishan0029&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan0029&theme=radical" alt="GitHub Streak" />
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan0029&theme=radical" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishan0029/Kishan0029/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
 
 <br/>
