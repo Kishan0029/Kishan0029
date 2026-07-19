@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Kishan! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;AI+Automation+Engineer;Founder+Nextverse;Lifelong+Learner" alt="Typing SVG" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;AI+Automation+Engineer;Founder+Nextverse;Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -15,7 +17,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,python" alt="skills" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,python" alt="skills" />
+  </a>
 </div>
 
 <br/>
