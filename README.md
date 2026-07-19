@@ -44,7 +44,7 @@
 
 #### 🌐 Client Websites & Agencies
 - **[Nextverse](https://github.com/Kishan0029/nextverse-website)** - Official website for Nextverse agency.
-- **[MH Design and Build](https://github.com/Kishan0029/mh-design-build)** - Professional website for MH Design and Build.
+- **[MH Design Build](https://github.com/Kishan0029/mh-design-build)** - Professional website for MH Design and Build.
 - **[Skin & Hair Solutions](https://github.com/Kishan0029/skin-hair-solutions)** - Clinic website for Skin and Hair Solutions.
 - **[Dotcreators Agency](https://github.com/Kishan0029/dotcreators-agency)** - Event website made in collaboration with Dotlabs Agency.
 
